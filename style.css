@@ -58,11 +58,9 @@ button{
     border-radius:40px;
 }
 button:hover{
-    background-color:rgb(78, 12, 233);
-    color: white;
     cursor:pointer;
-    
 }
+
 h1{
     position: fixed;
     font-size: 50px;
